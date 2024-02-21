@@ -1,0 +1,2 @@
+# BatteryDetector
+Django Project
